@@ -17,7 +17,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--arch', type=str, default='RCAN')
-    parser.add_argument('--train_images_dir', type=str, default='../data/train/lr')
+    parser.add_argument('--train_images_dir', type=str, default='../data/train/hr')
     parser.add_argument('--outputs_dir', type=str, default='../output/')
     parser.add_argument('--scale', type=int, default=2)
     parser.add_argument('--num_features', type=int, default=64)

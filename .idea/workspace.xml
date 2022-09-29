@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57ca2af2-31f6-44c0-b1aa-708857dfc7ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +69,19 @@
       <option name="project" value="LOCAL" />
       <updated>1664444314666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AI 양재 허브 인공지능 오픈소스 경진대회&#10;RCAN">
+      <created>1664445531619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664445531619</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="AI 양재 허브 인공지능 오픈소스 경진대회&#10;RCAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI 양재 허브 인공지능 오픈소스 경진대회&#10;RCAN" />
   </component>
 </project>
